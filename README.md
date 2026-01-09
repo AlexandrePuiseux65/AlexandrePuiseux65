@@ -11,10 +11,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on ... (ton projet actuel)
-- 🌱 I’m currently learning ... (une techno spécifique)
+- 🔭 I’m currently working on ... [Ton LinkedIn](https://linkedin.com/in/ton-profil)
 - 💬 Ask me about ... (tes sujets de prédilection)
-- 📫 How to reach me: [Ton LinkedIn](https://linkedin.com/in/ton-profil)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ton-profil) / [Mail](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
 
 ---
 
