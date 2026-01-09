@@ -46,6 +46,7 @@
 ### 🏆 Certifications
 * **AWS** Cloud Practitioner & Machine Learning Foundations.
 * **DataScientest** - SQL Certification.
+* **Certification RNCP37827** - Développeur en intelligence artificielle / Artificial intelligence developer (https://www.francecompetences.fr/recherche/rncp/37827/)
 
 --- 
 #### ![Views](https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=blue&style=flat-square)
