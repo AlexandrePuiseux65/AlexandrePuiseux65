@@ -1,11 +1,10 @@
-<p align="center">
-# Hi there 👋,
-# I'm Alexandre Puiseux
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 
-<p align="center">
+  <h1>Hi there 👋, I'm Alexandre Puiseux</h1>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MSc+Artificial+Intelligence+Student;University+of+St+Andrews;AI+%26+Data+Developer;Trading+Bot+Enthusiast" alt="Typing SVG" />
-</p>
-</p>
+</div>
 
 ### 🎓 Education
 * 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **MSc Artificial Intelligence** | [University of St Andrews](https://www.st-andrews.ac.uk/) (2025 - 2026)
