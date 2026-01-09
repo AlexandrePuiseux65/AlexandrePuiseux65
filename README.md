@@ -46,6 +46,8 @@
 * **AWS** Cloud Practitioner & Machine Learning Foundations.
 * **DataScientest** - SQL Certification.
 
+--- 
+#### ![Views](https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=blue&style=flat-square)
 <!--
 **AlexandrePuiseux65/AlexandrePuiseux65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
