@@ -1,42 +1,50 @@
 # Hi there 👋 I'm Alexandre Puiseux
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Master+Student+in+AI;University+of+St+Andrews;Passionate+about+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=MSc+Artificial+Intelligence+Student;University+of+St+Andrews;AI+%26+Data+Developer;Trading+Bot+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🎓 Education
-* **Master's in Artificial Intelligence** at [University of St Andrews](https://www.st-andrews.ac.uk/) 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-* *Intérêts :* Deep Learning, Computer Vision, Reinforcement Learning.
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **MSc Artificial Intelligence** | [University of St Andrews](https://www.st-andrews.ac.uk/) (2025 - 2026)
+  * *Focus:* Machine Learning, Uncertainty in AI, Constraint Programming.
+* 🇫🇷 **Bachelor Data & IA** | ECE Paris (Graduated with Honors)
+  * *Focus:* Datamining, Machine Learning, SQL & Web Development.
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on ... [Ton LinkedIn](https://linkedin.com/in/ton-profil)
-- 💬 Ask me about ... (tes sujets de prédilection)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ton-profil) / [Mail](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
+- 🔭 **Current Project:** Developing **PiggyBank**, an automated trading bot for stock options using Python and ML decision models.
+- 🏎 **Involvement:** Simulation Engineer for the **Racing Club St Andrews** Formula Student concept car.
+- 💡 **Past Experience:** Former IT Project Manager & AI Developer at **ECS Group**, focused on security audits and data management.
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ton-profil) / [Mail](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Skills
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Main Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **AI / Data** | ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Scripting** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-004880?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=atlassian&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_ICI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_ICI&layout=compact&theme=radical" />
-</p>
+### 📂 Featured Projects
+* **📈 PiggyBank (Trading Bot)**
+  * Automated trading bot for stock options with volume management models.
+* **📊 Data Scraping & Visualization**
+  * Integrated INSEE data and web scraping into Power BI dashboards for demographic analysis.
+* **🚗 A2L Calibration Tool (OPmobility)**
+  * Backend logic for automated generation and modification of calibration files using Python.
 
 ---
 
-### 📂 Top Projects
-* **[Projet 1](Lien)** - Courte description de ce que l'IA fait ici.
-* **[Projet 2](Lien)** - Utilisation de tel algorithme pour tel résultat.
+### 🏆 Certifications
+* **AWS** Cloud Practitioner & Machine Learning Foundations.
+* **DataScientest** - SQL Certification.
+
 <!--
 **AlexandrePuiseux65/AlexandrePuiseux65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
