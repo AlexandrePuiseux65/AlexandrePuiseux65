@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Alexandre Puiseux, a master student in AI at [St Andrews University]: https://www.st-andrews.ac.uk/.
 <!--
 **AlexandrePuiseux65/AlexandrePuiseux65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
