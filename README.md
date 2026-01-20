@@ -40,11 +40,11 @@
     
 * **📊 Data Scraping & Visualization**
   * Integrated INSEE data and web scraping into Power BI dashboards for demographic analysis.
-  * Link:
+  * Link: 
     
 * **🚗 A2L Calibration Tool (OPmobility)**
   * Backend logic for automated generation and modification of calibration files using Python.
-  * Link:
+  * Link: N/A (License Software)
 
 ---
 
