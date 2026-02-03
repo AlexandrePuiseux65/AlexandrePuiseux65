@@ -40,7 +40,11 @@
     
 * **📊 Data Scraping & Visualization**
   * Integrated INSEE data and web scraping into Power BI dashboards for demographic analysis.
-  * Link: 
+  * Link:
+ 
+* **💹 Long-Term Stock Analysis Project**
+  * Application using Streamlit that allow us to automate fundamental investment research and remove emotional bias from the decision-making process.
+  * Link: [Long-Term-Stock-Analysis-Project](https://github.com/AlexandrePuiseux65/Long-Term-Stock-Analysis-Project)
     
 * **🚗 A2L Calibration Tool (OPmobility)**
   * Backend logic for automated generation and modification of calibration files using Python.
@@ -55,17 +59,3 @@
 
 --- 
 #### ![Views](https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=blue&style=flat-square)
-<!--
-**AlexandrePuiseux65/AlexandrePuiseux65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
