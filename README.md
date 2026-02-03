@@ -36,7 +36,7 @@
 ### 📂 Featured Projects
 * **📈 PiggyBank (Trading Bot)**
   * Automated trading bot for stock options with volume management models.
-  * Link:
+  * Link: N/A (Currently being updated)
     
 * **📊 Data Scraping & Visualization**
   * Integrated INSEE data and web scraping into Power BI dashboards for demographic analysis.
