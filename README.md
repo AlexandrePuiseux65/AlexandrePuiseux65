@@ -16,7 +16,7 @@
 ### 🚀 About Me
 - 🔭 **Current Project:** Developing **PiggyBank**, an automated trading bot for stock options using Python and ML decision models.
 - 🏎 **Involvement:** Simulation Engineer for the **Racing Club St Andrews** Formula Student concept car.
-- 💡 **Past Experience:** Former IT Project Manager & AI Developer at **ECS Group**, focused on security audits and data management.
+- 💡 **Past Experience:** Former IT Project Manager & AI Developer at **ECS Group (Quito)**, focused data management.
 - 📚 **Currently Studing:** 
 - 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ton-profil) / [Mail](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
 
