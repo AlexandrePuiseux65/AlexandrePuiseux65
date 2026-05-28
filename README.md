@@ -4,15 +4,6 @@
 
 ---
 
-### 🎓 Education
-
-* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **MSc Artificial Intelligence** | [University of St Andrews](https://www.st-andrews.ac.uk/) *(2025 – 2026)*
-  * *Focus:* Machine Learning, Uncertainty in AI, Constraint Programming.
-* 🇫🇷 **Bachelor Data & IA** | [ECE Paris](https://www.ece.fr/) *(Graduated with Honors)*
-  * *Focus:* Datamining, Machine Learning, SQL & Web Development.
-
----
-
 ### 🚀 About Me
 
 - 🔭 **Current Project:** Developing **PiggyBank**, an automated trading bot for stock options using Python and ML decision models.
