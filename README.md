@@ -1,21 +1,24 @@
 <div align="center">
-  <h1>Hi 👋, 
-    I'm Alexandre Puiseux</h1>
+  <h1>Hi 👋, I'm Alexandre Puiseux</h1>
+</div>
+
+---
 
 ### 🎓 Education
-* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **MSc Artificial Intelligence** | [University of St Andrews](https://www.st-andrews.ac.uk/) (2025 - 2026)
+
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **MSc Artificial Intelligence** | [University of St Andrews](https://www.st-andrews.ac.uk/) *(2025 – 2026)*
   * *Focus:* Machine Learning, Uncertainty in AI, Constraint Programming.
-* 🇫🇷 **Bachelor Data & IA** | [ECE Paris](https://www.ece.fr/) (Graduated with Honors)
+* 🇫🇷 **Bachelor Data & IA** | [ECE Paris](https://www.ece.fr/) *(Graduated with Honors)*
   * *Focus:* Datamining, Machine Learning, SQL & Web Development.
 
 ---
 
 ### 🚀 About Me
+
 - 🔭 **Current Project:** Developing **PiggyBank**, an automated trading bot for stock options using Python and ML decision models.
 - 🏎 **Involvement:** Simulation Engineer for the **Racing Club St Andrews** Formula Student concept car.
-- 💡 **Past Experience:** Former IT Project Manager & AI Developer at **ECS Group (Quito)**, focused data management.
-- 📚 **Currently Studing:** 
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/ton-profil) / [Mail](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
+- 💡 **Past Experience:** Former IT Project Manager & AI Developer at **ECS Group (Quito)**, focused on data management.
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/alexandre-puiseux) · [Email](mailto:anp4@st-andrews.ac.uk?subject=[Github]:%20making%20contact)
 
 ---
 
@@ -28,5 +31,6 @@
 | **Data & Automation** | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
 | **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=atlassian&logoColor=white) |
 
---- 
-#### ![Views](https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=blue&style=flat-square)
+---
+
+![Views](https://komarev.com/ghpvc/?username=AlexandrePuiseux65&color=blue&style=flat-square)
